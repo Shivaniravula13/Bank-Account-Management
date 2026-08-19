@@ -11,7 +11,7 @@ public class MainApp {
 
         // Create Customer
         Customer customer = new Customer(
-                "Tharunya",
+                "Srivalli",
                 21,
                 "C001",
                 address
